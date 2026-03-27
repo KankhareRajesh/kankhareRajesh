@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rajesh Kankhare</h1>
+<h1 align="center">Hi 👋, I'm Rajesh Vasant Kankhare</h1>
 <h3 align="center">🚀 Where Vision Meets Technology | Data Science · AI · Cloud</h3>
 
+- 🌱 I’m currently learning **Trending Data Science & AI skills of 2026**
+
+- 🤝 I’m looking for help with **📬 Open to job opportunities — Let's connect & build together!**
+
 - 👨‍💻 All of my projects are available at [https://github.com/KankhareRajesh](https://github.com/KankhareRajesh)
+
+- 💬 Ask me about **ML models, Data Science, AWS Cloud & AI tools**
+
+- 📫 How to reach me **kankharerajesh.cse@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16hbZV5f41jDs7NM3Mqa47yD3HVMgodyd/view?usp=drive_link](https://drive.google.com/file/d/16hbZV5f41jDs7NM3Mqa47yD3HVMgodyd/view?usp=drive_link)
 
@@ -13,6 +21,7 @@
 <a href="https://instagram.com/rajeshkankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajeshkankhare" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeshkankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeshkankhare" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/rajeshkankhare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="rajeshkankhare" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/411045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="411045" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
